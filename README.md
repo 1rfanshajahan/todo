@@ -1,2 +1,1 @@
-# todo
-todo list in Go
+yet another todo list in Go
